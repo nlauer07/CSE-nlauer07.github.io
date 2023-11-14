@@ -20,3 +20,17 @@ h1 {
     color:dimgray;
     text-align: center;
 }
+a {
+    text-decoration: none; 
+    color: midnightblue; 
+    }
+    .assignment details {
+    padding: 10px; 
+    border: 2px solid midnightblue;  }
+    .assignment {
+        border-radius: 20px; 
+        }
+        Explain a:hover, img:hover, h1:hover a:hover {
+        text-decoration: none; 
+        color: rgb(133, 94, 90) ;
+        }
